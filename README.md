@@ -11,7 +11,6 @@ Estoy actualmente en busqueda de mi primer empleo en el area IT.
 <br/>
 
 
-<!-- 
 <br/>
 </div>
  <h1 align="center">💻 Estas son las tecnologias con las que se trabajar actualmente 💻 </h1>
