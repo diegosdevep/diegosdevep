@@ -1,8 +1,5 @@
-### ¡Hola! Yo soy Diego Maidana 💻 Fullstack developer
 
-<img align="center" alt="banner" width="auto" src="Banner.png">
-
-<h1 align="center">¡Hola! Yo soy Ezequiel Gomez 💻 Front-End developer</h1>
+<h1 align="center">¡Hola! Yo Soy Diego Maidana 💻 FullStack developer</h1>
 
 <div>Estoy comenzando mi camino en el mundo de la programación, me gusta aprender cosas nuevas y aplicarlas dia a dia en mis proyectos.</div>
   Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas me motiva.
@@ -12,27 +9,9 @@
 Estoy actualmente en busqueda de mi primer empleo en el area IT.
 <br/>
 <br/>
-Proyectos Deployados:
-<br/>
-<br/>
-https://portfolio-eze-swart.vercel.app
-<br/>
-<br/>
-https://pi-countries-nu-tan.vercel.app/
-<br/>
-<br/>
-https://pi-videogamess-pied.vercel.app
-<br/>
-<br/>
-https://pf-techbunny-lake.vercel.app
-</div>
 
 
-<br/>
-
-<!-- <div align="center" id="badges">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt=""/>
-</div> -->
+<!-- 
 <br/>
 </div>
  <h1 align="center">💻 Estas son las tecnologias con las que se trabajar actualmente 💻 </h1>
@@ -53,12 +32,6 @@ https://pf-techbunny-lake.vercel.app
     </td>
     <td align="center"  width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center"  width="100">
-      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Sass" />
       </a>
       <br>Tailwind
@@ -68,12 +41,6 @@ https://pf-techbunny-lake.vercel.app
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Soon" />
       </a>
       <br>Bootstrap
-    </td>
-    <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" alt="Soon" />
-      </a>
-      <br>Angular
     </td>
     <td align="center" width="100">
       <a href="#">
@@ -121,12 +88,6 @@ https://pf-techbunny-lake.vercel.app
    </a>
   <br>Github
    </td>
-   <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>Photoshop
-  </td>
   </tr>
 <tr>
     <td align="center" width="100">
@@ -149,21 +110,9 @@ https://pf-techbunny-lake.vercel.app
     </td>
   <td align="center" width="100">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/less.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>Less
-    </td>
-  <td align="center" width="100">
-      <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/es6.svg" width="50" height="50" alt="JavaScript" />
       </a>
       <br>ES6
-    </td>
-  <td align="center" width="100">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="50" height="50" alt="JavaScript" />
-      </a>
-      <br>CANVA
     </td>
   <td align="center" width="100">
       <a href="#">
@@ -175,13 +124,7 @@ https://pf-techbunny-lake.vercel.app
   </tr>
 </table>
 
-## 💡 Mis estadisticas en GitHub
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EzequielGomez74&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EzequielGomez74&theme=tokyonight&hide_border=true"/>
-    <img height="180em" border="none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielGomez74&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
 
 ## 📩 **Pueden contactarme en ⤵**
-[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white)](mailto:ezequiel.canob@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eze-gomez/)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white)](mailto:diegodevep@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/diego-e-maidana)
