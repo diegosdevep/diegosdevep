@@ -3,10 +3,10 @@
 
 Things to know about me
 ----------------
-▷ I am a Full-Stack developer who loves creating Web sites and Mobile Apps.<br/><br/>
-▷ I love being able to imagine something and see it come to life through code.<br/><br/>
-▷  Constant learning is what I do and what I seek.<br/><br/>
-▷ I love technology, landscapes and meeting new people, so I have been traveling around the world for 4 years..<br/><br/>
+✅ I am a Full-Stack developer who loves creating Web sites and Mobile Apps.<br/><br/>
+✅ I love being able to imagine something and see it come to life through code.<br/><br/>
+✅  Constant learning is what I do and what I seek.<br/><br/>
+✅ I love technology, landscapes and meeting new people, so I have been traveling around the world for 4 years..<br/><br/>
  
 
 <br/>
