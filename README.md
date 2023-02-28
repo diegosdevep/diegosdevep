@@ -1,7 +1,39 @@
 ### ¡Hola! Yo soy Diego Maidana 💻 Fullstack developer
 
-<!--
-**diegosdevep/diegosdevep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" alt="banner" width="auto" src="Banner.png">
+
+<h1 align="center">¡Hola! Yo soy Ezequiel Gomez 💻 Front-End developer</h1>
+
+<div>Estoy comenzando mi camino en el mundo de la programación, me gusta aprender cosas nuevas y aplicarlas dia a dia en mis proyectos.</div>
+  Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas me motiva.
+<br/>
+<br/>
+
+Estoy actualmente en busqueda de mi primer empleo en el area IT.
+<br/>
+<br/>
+Proyectos Deployados:
+<br/>
+<br/>
+https://portfolio-eze-swart.vercel.app
+<br/>
+<br/>
+https://pi-countries-nu-tan.vercel.app/
+<br/>
+<br/>
+https://pi-videogamess-pied.vercel.app
+<br/>
+<br/>
+https://pf-techbunny-lake.vercel.app
+</div>
+
+
+<br/>
+
+<!-- <div align="center" id="badges">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt=""/>
+</div> -->
+<br/>
 </div>
  <h1 align="center">💻 Estas son las tecnologias con las que se trabajar actualmente 💻 </h1>
        
@@ -142,3 +174,14 @@
   
   </tr>
 </table>
+
+## 💡 Mis estadisticas en GitHub
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EzequielGomez74&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EzequielGomez74&theme=tokyonight&hide_border=true"/>
+    <img height="180em" border="none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielGomez74&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
+## 📩 **Pueden contactarme en ⤵**
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white)](mailto:ezequiel.canob@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eze-gomez/)
