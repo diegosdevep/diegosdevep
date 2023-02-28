@@ -75,12 +75,6 @@ Estoy actualmente en busqueda de mi primer empleo en el area IT.
       </a>
       <br>Node.js
     </td> 
-  <td align="center" width="100">
-   <a href="#">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="HTML5" />
- </a>
-   <br>Git
-  </td>
    <td align="center" width="100">
    <a href="#">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="CSS3" />
@@ -126,4 +120,4 @@ Estoy actualmente en busqueda de mi primer empleo en el area IT.
 
 ## 📩 **Pueden contactarme en ⤵**
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white)](mailto:diegodevep@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/diego-e-maidana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([linkedin.com/in/diego-e-maidana](https://www.linkedin.com/in/diego-e-maidana/))
