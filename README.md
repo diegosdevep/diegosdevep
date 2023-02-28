@@ -1,19 +1,20 @@
 
-<h1 align="center">¡Hola! Yo Soy Diego Maidana 💻 FullStack developer</h1>
+<h1 align="center">¡Welcome! --  I'm Diego Maidana</h1>
 
-<div>Estoy comenzando mi camino en el mundo de la programación, me gusta aprender cosas nuevas y aplicarlas dia a dia en mis proyectos.</div>
-  Aprender nuevas tecnologias que pueda aplicar cada dia y superarme es lo que mas me motiva.
+<div>✅ I am a Full-Stack developer who loves creating Web sites and Mobile Apps.
 <br/>
 <br/>
-
-Estoy actualmente en busqueda de mi primer empleo en el area IT.
+ ✅ I love being able to imagine something and see it come to life through code.
+<br/>
+<br/>
+✅  Constant learning is what I do and what I seek.
 <br/>
 <br/>
 
 
 <br/>
 </div>
- <h1 align="center">💻 Estas son las tecnologias con las que se trabajar actualmente 💻 </h1>
+ <h1 align="center">💻 These are the technologies with which we currently work 💻 </h1>
        
 <table align="center">
   <tr>
