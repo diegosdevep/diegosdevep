@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 Estas son las tecnologias con las que se trabajar actualmente 💻
+HTML5
+HTML5	CSS3
+CSS3	Sass
+Sass	Sass
+Tailwind	Soon
+Bootstrap	Soon
+Angular	Soon
+Figma
+JavaScript
+JavaScript	JavaScript
+React	Redux
+Redux	NodeJS
+Node.js	HTML5
+Git	CSS3
+Github	JavaScript
+Photoshop
+JavaScript
+PostgresSQL	JavaScript
+MongoDB	JavaScript
+Express	JavaScript
+Less	JavaScript
+ES6	JavaScript
+CANVA	JavaScript
+MATERIAL IU
+💡 Mis estadisticas en GitHub
