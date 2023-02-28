@@ -117,7 +117,8 @@ Estoy actualmente en busqueda de mi primer empleo en el area IT.
   </tr>
 </table>
 
-
-## 📩 **Pueden contactarme en ⤵**
-[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white)](mailto:diegodevep@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([linkedin.com/in/diego-e-maidana](https://www.linkedin.com/in/diego-e-maidana/))
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/diego-e-maidana/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="agustin-lago" /></a>
+<a href="mailto:diegodevep@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+</p>
