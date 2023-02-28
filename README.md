@@ -1,17 +1,13 @@
 
-<h1 align="center">¡Welcome! --  I'm Diego Maidana</h1>
-<h2>Things to know about me<h2/>
+<h1 align="center">¡Welcome to my Github! --  I'm Diego Maidana</h1>
 
-
-
-<p align="left">✅ I am a Full-Stack developer who loves creating Web sites and Mobile Apps.</p>
-
-<p align="left">✅ I love being able to imagine something and see it come to life through code.</p>
-
-<p align="left">✅  Constant learning is what I do and what I seek.</p>
-
-<p align="left">✅ I love technology, landscapes and meeting new people, so I have been traveling around the world for 4 years</p>
-
+Things to know about me
+----------------
+▷ I am a Full-Stack developer who loves creating Web sites and Mobile Apps.<br/><br/>
+▷ I love being able to imagine something and see it come to life through code.<br/><br/>
+▷  Constant learning is what I do and what I seek.<br/><br/>
+▷ I love technology, landscapes and meeting new people, so I have been traveling around the world for 4 years..<br/><br/>
+ 
 
 <br/>
 
