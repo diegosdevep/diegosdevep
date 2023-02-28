@@ -1,4 +1,4 @@
-### ¡Hola! Yo soy Ezequiel Gomez 💻 Front-End developer
+### ¡Hola! Yo soy Diego Maidana 💻 Fullstack developer
 
 <!--
 **diegosdevep/diegosdevep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
