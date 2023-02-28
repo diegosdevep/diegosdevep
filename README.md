@@ -6,16 +6,9 @@
 
 <p align="left">✅ I am a Full-Stack developer who loves creating Web sites and Mobile Apps.</p>
 
-<br/>
-<br/>
-
 <p align="left">✅ I love being able to imagine something and see it come to life through code.</p>
-<br/>
-<br/>
 
 <p align="left">✅  Constant learning is what I do and what I seek.</p>
-<br/>
-<br/>
 
 <p align="left">✅ I love technology, landscapes and meeting new people, so I have been traveling around the world for 4 years</p>
 
